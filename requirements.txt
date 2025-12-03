@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+transformers
+sentencepiece
+torch
+python-docx
+pypdf2
+nltk
+spacy
+datasets
+imblearn
+sentence-transformers
